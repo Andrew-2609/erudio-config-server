@@ -9,5 +9,5 @@ management:
         include: '*'
 
 greeting-service:
-  greeting: "你好"
+  greeting: "您好"
   default-value: "世界"
